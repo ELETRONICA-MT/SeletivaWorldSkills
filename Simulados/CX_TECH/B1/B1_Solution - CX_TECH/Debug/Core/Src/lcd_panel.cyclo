@@ -1,0 +1,2 @@
+../Core/Src/lcd_panel.c:134:9:invertbyte	2
+../Core/Src/lcd_panel.c:148:6:WriteInt_Display	3

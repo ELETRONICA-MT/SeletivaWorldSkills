@@ -1,0 +1,10 @@
+../Core/Src/main.c:86:7:map	32	static
+../Core/Src/main.c:92:6:set_freq	32	static
+../Core/Src/main.c:102:6:spi_t595	16	static
+../Core/Src/main.c:107:6:latch_c	8	static
+../Core/Src/main.c:114:6:set_595	32	static
+../Core/Src/main.c:131:6:but_matriz	16	static
+../Core/Src/main.c:158:6:task	24	static
+../Core/Src/main.c:195:5:main	8	static
+../Core/Src/main.c:270:6:SystemClock_Config	128	static
+../Core/Src/main.c:320:6:Error_Handler	8	static,ignoring_inline_asm
