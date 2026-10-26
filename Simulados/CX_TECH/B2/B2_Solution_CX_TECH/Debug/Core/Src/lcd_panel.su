@@ -1,0 +1,2 @@
+../Core/Src/lcd_panel.c:136:9:invertbyte	32	static
+../Core/Src/lcd_panel.c:150:6:WriteInt_Display	48	static

@@ -1,0 +1,2 @@
+../Core/Src/Frequency.c:10:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/Frequency.c:25:7:get_frequence	8	static
