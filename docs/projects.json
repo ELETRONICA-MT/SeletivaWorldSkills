@@ -1,0 +1,28 @@
+{
+  "competition": {
+    "name": "Competição Nacional WorldSkills",
+    "date": null
+  },
+  "projects": [
+    {
+      "id": "cx-tech",
+      "module": "A",
+      "title": "CX_TECH",
+      "description": "Pasta de entregas existente. Adicione aqui o enunciado, as fotos e o modelo 3D quando estiverem prontos.",
+      "repositoryPath": "Simulados/CX_TECH",
+      "model": null,
+      "photos": [],
+      "documents": []
+    },
+    {
+      "id": "io-car",
+      "module": "B",
+      "title": "IO_CAR",
+      "description": "Pasta de entregas existente. A classificação por módulo é provisória e pode ser ajustada.",
+      "repositoryPath": "Simulados/IO_CAR",
+      "model": null,
+      "photos": [],
+      "documents": []
+    }
+  ]
+}
