@@ -1,4 +1,1847 @@
 {
-  "events": [],
-  "nationalDate": null
+  "events": [
+    {
+      "id": "df9ac758-1c48-4c00-af3e-fe1f0d583d2e",
+      "date": "2026-12-08",
+      "type": "ambientacao",
+      "title": "SIMULADO 8",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "cd2f0f10-5af3-41d7-8b47-f103c736c5d9",
+      "date": "2026-12-09",
+      "type": "simulado",
+      "title": "SIMULADO 8",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "aec8d932-9f4d-4793-b361-3ec0690749ec",
+      "date": "2026-12-09",
+      "type": "simulado",
+      "title": "SIMULADO 8",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "03e6f0b5-3176-4299-80d7-9d1a46d41f9e",
+      "date": "2026-12-10",
+      "type": "simulado",
+      "title": "SIMULADO 8",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "d7294d46-230b-46b5-ac97-740d978c020d",
+      "date": "2026-12-10",
+      "type": "simulado",
+      "title": "SIMULADO 8",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "c51f3cf4-fa3e-490e-9ab8-0ded954e5796",
+      "date": "2026-12-11",
+      "type": "simulado",
+      "title": "SIMULADO 8",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "a25b5d01-9ce0-4397-b9be-1e4a777ca4eb",
+      "date": "2026-12-11",
+      "type": "simulado",
+      "title": "SIMULADO 8",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "e244cea2-b182-42e2-a8ed-458e707f8e0e",
+      "date": "2026-11-24",
+      "type": "ambientacao",
+      "title": "SIMULADO 7",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "57d43011-1a98-43e5-8127-b51e1004e842",
+      "date": "2026-11-25",
+      "type": "simulado",
+      "title": "SIMULADO 7",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "d084015f-a813-4c6f-b583-7efb0f32b2eb",
+      "date": "2026-11-25",
+      "type": "simulado",
+      "title": "SIMULADO 7",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "8cc4c4dc-3cc7-41b3-8f43-39db26aa6dfd",
+      "date": "2026-11-26",
+      "type": "simulado",
+      "title": "SIMULADO 7",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "e64ad3b8-d47b-4720-bca3-7e410a31005d",
+      "date": "2026-11-26",
+      "type": "simulado",
+      "title": "SIMULADO 7",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "1def1a30-3422-452f-a6c2-122a6bb1c89b",
+      "date": "2026-11-27",
+      "type": "simulado",
+      "title": "SIMULADO 7",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "a755a87a-6255-4bdd-a36f-fb60cbd607fa",
+      "date": "2026-11-27",
+      "type": "simulado",
+      "title": "SIMULADO 7",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "04eecc69-fd62-43dc-96ca-df35e7e2d2ee",
+      "date": "2026-06-23",
+      "type": "ambientacao",
+      "title": "SIMULADO 1",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "1d43f47e-5c69-450b-8421-7d75ac9648e9",
+      "date": "2026-06-24",
+      "type": "simulado",
+      "title": "SIMULADO 1",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "111c37cc-0cc6-4ea7-8291-c4ecdc51633c",
+      "date": "2026-06-24",
+      "type": "simulado",
+      "title": "SIMULADO 1",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "e2765166-8d66-464a-be1d-a899de746f74",
+      "date": "2026-06-25",
+      "type": "simulado",
+      "title": "SIMULADO 1",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "db171f42-6928-4ea5-83a1-4925e6d9b807",
+      "date": "2026-06-25",
+      "type": "simulado",
+      "title": "SIMULADO 1",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "04b05a76-feb5-47a0-b897-399c1485979e",
+      "date": "2026-06-26",
+      "type": "simulado",
+      "title": "SIMULADO 1",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "f244fd49-bdea-4dc0-8a61-ec369a8c53f6",
+      "date": "2026-06-26",
+      "type": "simulado",
+      "title": "SIMULADO 1",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "5f3cf23a-7c01-46a1-9ebd-cbc939738579",
+      "date": "2026-09-08",
+      "type": "ambientacao",
+      "title": "SIMULADO 2",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "c14c0274-14d7-48c4-b23c-95196ab225f2",
+      "date": "2026-09-09",
+      "type": "simulado",
+      "title": "SIMULADO 2",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "07e97093-82b3-4cd3-bb65-fba3f31ca316",
+      "date": "2026-09-09",
+      "type": "simulado",
+      "title": "SIMULADO 2",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "ae1dbeba-aa1c-4aed-af92-04586ded056a",
+      "date": "2026-09-10",
+      "type": "simulado",
+      "title": "SIMULADO 2",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "63240aee-dd75-4aca-8618-37c25c284a54",
+      "date": "2026-09-10",
+      "type": "simulado",
+      "title": "SIMULADO 2",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "aa86eacd-08c8-414d-854d-85b13423a50a",
+      "date": "2026-09-11",
+      "type": "simulado",
+      "title": "SIMULADO 2",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "18c30176-8f1a-4144-9a98-7072b1e650a0",
+      "date": "2026-09-11",
+      "type": "simulado",
+      "title": "SIMULADO 2",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "07010e25-67ee-4d0f-8e51-748c1dd8e580",
+      "date": "2026-09-15",
+      "type": "ambientacao",
+      "title": "SIMULADO 3",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "cafd3849-8635-47e7-a190-33dff123f8f8",
+      "date": "2026-09-16",
+      "type": "simulado",
+      "title": "SIMULADO 3",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "99286178-29cb-42f6-9e35-3cc136504dc0",
+      "date": "2026-09-16",
+      "type": "simulado",
+      "title": "SIMULADO 3",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "366a1462-f31b-4d58-97ba-03fa3178c37e",
+      "date": "2026-09-17",
+      "type": "simulado",
+      "title": "SIMULADO 3",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "bb3fb5da-6b2e-4423-9b62-7ad619caf822",
+      "date": "2026-09-17",
+      "type": "simulado",
+      "title": "SIMULADO 3",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "acb6c0f6-23df-45d1-af54-9874611154ae",
+      "date": "2026-09-18",
+      "type": "simulado",
+      "title": "SIMULADO 3",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "e6e6ea98-fd00-4410-b5b5-dffd75f8e5b7",
+      "date": "2026-09-18",
+      "type": "simulado",
+      "title": "SIMULADO 3",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "3f774acc-38d8-48cd-abdd-ef186506b5f6",
+      "date": "2026-10-06",
+      "type": "ambientacao",
+      "title": "SIMULADO 4",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "a887bf53-c04d-4901-856c-72c1150035b2",
+      "date": "2026-10-07",
+      "type": "simulado",
+      "title": "SIMULADO 4",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "476efc85-1697-4376-ab03-efe1c953b2e5",
+      "date": "2026-10-07",
+      "type": "simulado",
+      "title": "SIMULADO 4",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "3d23118d-79ec-4f2f-b9c5-0f191b2c9f81",
+      "date": "2026-10-08",
+      "type": "simulado",
+      "title": "SIMULADO 4",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "efd75f0c-98ae-4f64-961c-eb3c54e08610",
+      "date": "2026-10-08",
+      "type": "simulado",
+      "title": "SIMULADO 4",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "fc19ff1c-0c0c-4499-9532-2ae1adf3e051",
+      "date": "2026-10-09",
+      "type": "simulado",
+      "title": "SIMULADO 4",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "0ffeea80-62e2-4a68-8dc7-9b89417ce4f3",
+      "date": "2026-10-09",
+      "type": "simulado",
+      "title": "SIMULADO 4",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "8d72d7c4-a1d9-4295-8f48-bb160908f788",
+      "date": "2026-10-27",
+      "type": "ambientacao",
+      "title": "SIMULADO 5",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "aadf73a1-685c-402d-91e4-076e2cb1195b",
+      "date": "2026-10-28",
+      "type": "simulado",
+      "title": "SIMULADO 5",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "4687ffc3-18c1-480e-945a-bc662690535f",
+      "date": "2026-10-28",
+      "type": "simulado",
+      "title": "SIMULADO 5",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "cc7d58db-65f8-484a-95a0-500542409468",
+      "date": "2026-10-29",
+      "type": "simulado",
+      "title": "SIMULADO 5",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "deb30204-1ab9-4290-b19d-8162cd361619",
+      "date": "2026-10-29",
+      "type": "simulado",
+      "title": "SIMULADO 5",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "cda510a6-20bb-4454-ade3-8a780487a18d",
+      "date": "2026-10-30",
+      "type": "simulado",
+      "title": "SIMULADO 5",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "f87565f6-0e77-4e18-87a3-3958c5d21c4b",
+      "date": "2026-10-30",
+      "type": "simulado",
+      "title": "SIMULADO 5",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "0991f542-2dc4-4007-ad0c-0b399f091a77",
+      "date": "2026-11-10",
+      "type": "ambientacao",
+      "title": "SIMULADO 6",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "d281c5f5-0f85-49e9-a625-1b7a8143b630",
+      "date": "2026-11-11",
+      "type": "simulado",
+      "title": "SIMULADO 6",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "5290509c-9e1b-4c3f-b88b-380b0b393d2a",
+      "date": "2026-11-11",
+      "type": "simulado",
+      "title": "SIMULADO 6",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "62753fc4-a560-4b8f-a471-d560ff917db8",
+      "date": "2026-11-12",
+      "type": "simulado",
+      "title": "SIMULADO 6",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "488922ca-a653-44aa-aff2-07b6ca5999ee",
+      "date": "2026-11-12",
+      "type": "simulado",
+      "title": "SIMULADO 6",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "4260bd30-5092-4baf-b319-1b7ede17dce6",
+      "date": "2026-11-13",
+      "type": "simulado",
+      "title": "SIMULADO 6",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "03076973-724b-45ce-9416-5a3e61efb0a7",
+      "date": "2026-11-13",
+      "type": "simulado",
+      "title": "SIMULADO 6",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "942c8f14-49d7-41f4-99f6-590f8f9edc65",
+      "date": "2027-01-19",
+      "type": "ambientacao",
+      "title": "SIMULADO 9",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "099fe91c-6011-42e5-9dfb-b54c25a6a0f7",
+      "date": "2027-01-20",
+      "type": "simulado",
+      "title": "SIMULADO 9",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "84d5e579-41a3-4b72-be16-4408d68260c6",
+      "date": "2027-01-20",
+      "type": "simulado",
+      "title": "SIMULADO 9",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "49398d19-0199-47b5-959d-5ee540f3ebd4",
+      "date": "2027-01-21",
+      "type": "simulado",
+      "title": "SIMULADO 9",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "498e8949-e1dc-49b6-844e-cb77cf02a9a4",
+      "date": "2027-01-21",
+      "type": "simulado",
+      "title": "SIMULADO 9",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "0482bd3c-0fa5-49b4-a6a4-e2deb54f43f1",
+      "date": "2027-01-22",
+      "type": "simulado",
+      "title": "SIMULADO 9",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "fedaacaf-b69c-4fd0-b0c9-d87f89ca41d5",
+      "date": "2027-01-22",
+      "type": "simulado",
+      "title": "SIMULADO 9",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "bc6a42b0-8b27-4fa9-a4e3-a4c7ee8dfec0",
+      "date": "2027-02-02",
+      "type": "ambientacao",
+      "title": "SIMULADO 10",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "503374e8-813c-4a0b-baf2-b3f002421df1",
+      "date": "2027-02-03",
+      "type": "simulado",
+      "title": "SIMULADO 10",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "5387fc76-6f43-49eb-8c28-f57f36e80e3a",
+      "date": "2027-02-03",
+      "type": "simulado",
+      "title": "SIMULADO 10",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "6ccb3c60-e7d0-4676-a0f5-431af0bc9a12",
+      "date": "2027-02-04",
+      "type": "simulado",
+      "title": "SIMULADO 10",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "d0249fe9-0b3b-4a0c-8b74-f09095047d66",
+      "date": "2027-02-04",
+      "type": "simulado",
+      "title": "SIMULADO 10",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "05df8c1b-9c57-473e-9d58-17b484d232c2",
+      "date": "2027-02-05",
+      "type": "simulado",
+      "title": "SIMULADO 10",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "6a6611d8-8470-4fed-a86c-24b149597b81",
+      "date": "2027-02-05",
+      "type": "simulado",
+      "title": "SIMULADO 10",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "3b6fa469-26ee-484a-bb5c-b507d9319bbe",
+      "date": "2027-02-16",
+      "type": "ambientacao",
+      "title": "SIMULADO 11",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "e9fda168-11cf-4e46-abe9-85f38e22521e",
+      "date": "2027-02-17",
+      "type": "simulado",
+      "title": "SIMULADO 11",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "b722e627-f9c7-4946-a5b4-02b0f3a257ed",
+      "date": "2027-02-17",
+      "type": "simulado",
+      "title": "SIMULADO 11",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "49ecd609-8a50-4289-8a11-b5990e0671d7",
+      "date": "2027-02-18",
+      "type": "simulado",
+      "title": "SIMULADO 11",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "b9a7afe5-1906-4652-b589-ef544d78d454",
+      "date": "2027-02-18",
+      "type": "simulado",
+      "title": "SIMULADO 11",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "cbf8e7ef-5c4e-4157-bc8f-530cae049a6c",
+      "date": "2027-02-19",
+      "type": "simulado",
+      "title": "SIMULADO 11",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "efc19e6e-ac66-403d-af6f-34fef7679bf9",
+      "date": "2027-02-19",
+      "type": "simulado",
+      "title": "SIMULADO 11",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "21813c7f-beeb-496a-bc47-5a4e1ebec2eb",
+      "date": "2027-03-02",
+      "type": "ambientacao",
+      "title": "SIMULADO 12",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "81a3ebd5-d7ed-4dcc-abf6-7c0a858724f5",
+      "date": "2027-03-03",
+      "type": "simulado",
+      "title": "SIMULADO 12",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "6449c6ec-0d65-4102-a511-7ceb087d107c",
+      "date": "2027-03-03",
+      "type": "simulado",
+      "title": "SIMULADO 12",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "41edeee0-28a2-4d36-abb4-8e1e57833f93",
+      "date": "2027-03-04",
+      "type": "simulado",
+      "title": "SIMULADO 12",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "efa26616-ae3d-4b25-bbab-a8ce65dc0901",
+      "date": "2027-03-04",
+      "type": "simulado",
+      "title": "SIMULADO 12",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "8c98b16a-869e-4f6b-a875-efc500537f16",
+      "date": "2027-03-05",
+      "type": "simulado",
+      "title": "SIMULADO 12",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "042c3ccb-9f0c-4eaa-9984-e18f42f4e39c",
+      "date": "2027-03-05",
+      "type": "simulado",
+      "title": "SIMULADO 12",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "85af1445-cdf8-49bd-97c9-489f05fa00c4",
+      "date": "2027-03-16",
+      "type": "ambientacao",
+      "title": "SIMULADO 13",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "388f115a-e329-4120-9435-28ffb76c2fdb",
+      "date": "2027-03-17",
+      "type": "simulado",
+      "title": "SIMULADO 13",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "8ddee721-ff8e-4c76-ac1a-8bc65e15949b",
+      "date": "2027-03-17",
+      "type": "simulado",
+      "title": "SIMULADO 13",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "e48fc5e0-a651-415e-adde-af1e0e090a66",
+      "date": "2027-03-18",
+      "type": "simulado",
+      "title": "SIMULADO 13",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "7702b44b-1b38-4ce4-8d82-e3a4492e408b",
+      "date": "2027-03-18",
+      "type": "simulado",
+      "title": "SIMULADO 13",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "6e74f55a-9da3-4c07-b367-0450302e9d2e",
+      "date": "2027-03-19",
+      "type": "simulado",
+      "title": "SIMULADO 13",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "4148cbff-dab3-47e7-ad88-6e4440392c05",
+      "date": "2027-03-19",
+      "type": "simulado",
+      "title": "SIMULADO 13",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "9098bdbb-27cd-4929-ba43-92f75daadc4c",
+      "date": "2027-06-16",
+      "type": "nacional",
+      "title": "Competição Nacional",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "0916c5be-9763-4835-bfab-851bedbd9dd9",
+      "date": "2027-04-06",
+      "type": "ambientacao",
+      "title": "SIMULADO 14",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "d70b9953-ef60-4100-9853-cf3288d4f722",
+      "date": "2027-04-07",
+      "type": "simulado",
+      "title": "SIMULADO 14",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "00abaa23-41fc-488d-ad0c-4352649f3ce9",
+      "date": "2027-04-07",
+      "type": "simulado",
+      "title": "SIMULADO 14",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "fe5e0fa6-5e54-4b90-a731-be14e21fad2c",
+      "date": "2027-04-08",
+      "type": "simulado",
+      "title": "SIMULADO 14",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "8c55bf28-cd5d-4ab9-9022-697c3f0b6fce",
+      "date": "2027-04-08",
+      "type": "simulado",
+      "title": "SIMULADO 14",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "3f575698-6a67-4bfa-84f8-88095812b1fb",
+      "date": "2027-04-09",
+      "type": "simulado",
+      "title": "SIMULADO 14",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "553029d3-b298-42c3-b7af-243260e8be06",
+      "date": "2027-04-09",
+      "type": "simulado",
+      "title": "SIMULADO 14",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "c830377e-5922-4200-ba6a-fb63ed219179",
+      "date": "2027-05-04",
+      "type": "ambientacao",
+      "title": "SIMULADO 15",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "7d876e30-8b06-4922-a1cc-a1a341811b54",
+      "date": "2027-05-05",
+      "type": "simulado",
+      "title": "SIMULADO 15",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "2064cf1f-80ce-4b24-b5b8-ad1bdcc9b621",
+      "date": "2027-05-05",
+      "type": "simulado",
+      "title": "SIMULADO 15",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "6b988507-25ab-489b-ae2e-9a7fa5b7c9ab",
+      "date": "2027-05-06",
+      "type": "simulado",
+      "title": "SIMULADO 15",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "4da02dac-9afd-408e-be38-2d3e4cf68272",
+      "date": "2027-05-06",
+      "type": "simulado",
+      "title": "SIMULADO 15",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "a4f53e55-fb34-48bb-aeac-fb8b84c368d0",
+      "date": "2027-05-07",
+      "type": "simulado",
+      "title": "SIMULADO 15",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "d4b23bbc-48bf-479f-9e2e-6a926c845ed7",
+      "date": "2027-05-07",
+      "type": "simulado",
+      "title": "SIMULADO 15",
+      "module": "B2",
+      "period": "tarde"
+    },
+    {
+      "id": "9794cdd8-2078-428d-839b-a6cb091f5817",
+      "date": "2027-05-18",
+      "type": "ambientacao",
+      "title": "SIMULADO 16",
+      "module": "",
+      "period": ""
+    },
+    {
+      "id": "e525f876-7740-4111-a4b4-5bddcec3c17c",
+      "date": "2027-05-19",
+      "type": "simulado",
+      "title": "SIMULADO 16",
+      "module": "A1",
+      "period": "manha"
+    },
+    {
+      "id": "00d69a61-1596-4528-bb4b-cd341c1e44ee",
+      "date": "2027-05-19",
+      "type": "simulado",
+      "title": "SIMULADO 16",
+      "module": "A2",
+      "period": "tarde"
+    },
+    {
+      "id": "6551da45-3338-4c12-8d34-d86bf77b0b43",
+      "date": "2027-05-20",
+      "type": "simulado",
+      "title": "SIMULADO 16",
+      "module": "C",
+      "period": "manha"
+    },
+    {
+      "id": "1bd2c8fe-65d5-4b7c-b36d-806af9fa781a",
+      "date": "2027-05-20",
+      "type": "simulado",
+      "title": "SIMULADO 16",
+      "module": "A3",
+      "period": "tarde"
+    },
+    {
+      "id": "c0122b2e-1c19-46b4-a14f-92644ce90ab2",
+      "date": "2027-05-21",
+      "type": "simulado",
+      "title": "SIMULADO 16",
+      "module": "B1",
+      "period": "manha"
+    },
+    {
+      "id": "0b2fd3f5-bf74-4e24-bd1c-a1850d6bbb3d",
+      "date": "2027-05-21",
+      "type": "simulado",
+      "title": "SIMULADO 16",
+      "module": "B2",
+      "period": "tarde"
+    }
+  ],
+  "nationalDate": "2027-06-16",
+  "assessments": [
+    {
+      "number": 1,
+      "goal": 20,
+      "competitor": "Lucas Ribeiro",
+      "status": "realizado",
+      "submoduleScores": {},
+      "projects": {
+        "A": {
+          "name": "CAFE",
+          "score": 27.33,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": 12.333,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": 0,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": 1.333,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": 0,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "B": {
+          "name": "IO CAR",
+          "score": 16.5,
+          "b1Max": 10,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": 0.65,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": 4.3,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "C": {
+          "name": "C 03",
+          "score": 32.5,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": 6.5,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 2,
+      "goal": 25,
+      "competitor": "Lucas Ribeiro",
+      "status": "realizado",
+      "submoduleScores": {},
+      "projects": {
+        "A": {
+          "name": "SERVO II",
+          "score": 19.22,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": 0,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": 5.75,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": 2.958,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": 0.9,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "B": {
+          "name": "β - Beta",
+          "score": 0,
+          "b1Max": 10,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": 0,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": 0,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "C": {
+          "name": "C 04",
+          "score": 21.5,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": 4.3,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 3,
+      "goal": 30,
+      "competitor": "Lucas Ribeiro",
+      "status": "realizado",
+      "submoduleScores": {},
+      "projects": {
+        "A": {
+          "name": "SERVO II",
+          "score": 27.87,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": 0,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": 9.375,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": 3.208,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": 1.35,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "B": {
+          "name": "β - Beta",
+          "score": 17.33,
+          "b1Max": 10,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": 1.55,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": 3.65,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "C": {
+          "name": "C 04",
+          "score": 16.17,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": 3.233,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 4,
+      "goal": 35,
+      "competitor": "Lucas Ribeiro",
+      "status": "realizado",
+      "submoduleScores": {},
+      "projects": {
+        "A": {
+          "name": "CX TECH",
+          "score": 51.17,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": 2.767,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": 9.817,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": 7.5,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": 5.5,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "B": {
+          "name": "P - RHO",
+          "score": 11.67,
+          "b1Max": 10,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": 2.5,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": 1,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "C": {
+          "name": "C 05",
+          "score": 53.75,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": 10.75,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 5,
+      "goal": 40,
+      "competitor": "Lucas Ribeiro",
+      "status": "realizado",
+      "submoduleScores": {},
+      "projects": {
+        "A": {
+          "name": "CX TECH",
+          "score": 54.32,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": 8.13,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": 12.07,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": 4.21,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": 2.75,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "B": {
+          "name": "IO CAR",
+          "score": 60,
+          "b1Max": 10,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": 10,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": 8,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "C": {
+          "name": "C 06",
+          "score": 48.15,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": 9.63,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 6,
+      "goal": 45,
+      "competitor": "Lucas Ribeiro",
+      "status": "realizado",
+      "submoduleScores": {},
+      "projects": {
+        "A": {
+          "name": "BOMB A",
+          "score": 36.92,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": 7.52,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": 9.85,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": 1.09,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": 0,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "B": {
+          "name": "β - Beta V2",
+          "score": 17.33,
+          "b1Max": 10,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": 1.2,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": 4,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": null,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        },
+        "C": {
+          "name": "C 07",
+          "score": 28.5,
+          "b1Max": 30,
+          "modules": {
+            "A1": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A2": {
+              "points": null,
+              "maxPoints": 15,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A3": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "A4": {
+              "points": null,
+              "maxPoints": 10,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B1": {
+              "points": null,
+              "maxPoints": 30,
+              "youtube": "",
+              "pdf": ""
+            },
+            "B2": {
+              "points": null,
+              "maxPoints": 0,
+              "youtube": "",
+              "pdf": ""
+            },
+            "C": {
+              "points": 5.7,
+              "maxPoints": 20,
+              "youtube": "",
+              "pdf": ""
+            }
+          }
+        }
+      }
+    }
+  ]
 }
