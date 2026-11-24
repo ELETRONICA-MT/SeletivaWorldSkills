@@ -82,6 +82,12 @@
 #calendarView .day .dot{display:flex;flex-direction:row;flex-wrap:nowrap;gap:2px;min-height:15px;justify-content:center;align-items:center}
 #calendarView .day .event-code{flex:0 1 auto;min-width:0;font-size:9px;line-height:12px;padding:0 1px;white-space:nowrap}
 #calendarView .day-empty{min-height:52px}
+
+#calendarView .month h3{text-align:center}
+#calendarView .day .dot{display:flex;flex-wrap:nowrap;gap:1px;justify-content:center;align-items:center;min-width:0}
+#calendarView .day .event-code{flex:0 1 auto;min-width:0;white-space:nowrap;font-size:clamp(7px,0.65vw,9px);padding:0 1px}
+#calendarView .day:not(:has(.dot)):not(:has(.week-marker)){display:flex;align-items:center;justify-content:center}
+#calendarView .day:not(:has(.dot)):not(:has(.week-marker))>span:first-child{margin:0;text-align:center}
 </style>
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.1.0/model-viewer.min.js"></script>
 </head><body>
